@@ -1,0 +1,2 @@
+python train_chlorophyll.py --config configs/bohai.json
+python train_chlorophyll.py --config configs/nanhai.json
